@@ -1,5 +1,4 @@
 ### MyPlaces
-Приложение для iPhone, которое позволяет вам отмечать и хранить любимые места. 
 
 Возможности : 
 - добавления нового места с фото,
@@ -12,9 +11,12 @@
 - построение маршрута от текущего положения пользователя до выбранного заведения
 
 Frameworks :
-- [Realm](https://github.com/realm/realm-swift.git)
-- [Cosmos](https://github.com/evgenyneu/Cosmos)
-- [MapKit](https://developer.apple.com/documentation/mapkit/)
-- [CoreLocation](https://developer.apple.com/documentation/corelocation)
+- Realm
+- Cosmos
+- MapKit
+- CoreLocation
 
-<img alt="image" src="MyPlaces.gif" height = 510 width = 233 />
+https://github.com/MakSalol/MyPlaces/assets/43699258/7875ce9f-f01b-4c00-b14f-c7208e7abaa1
+
+
+
